@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Larsimoto93
-- 👀 I’m interested in ...money
+- 👀 I’m interested in ...things
 - 🌱 I’m currently learning ...things
-- 💞️ I’m looking to collaborate on ... earning money
+- 💞️ I’m looking to collaborate on ... things
 - 📫 How to reach me ...here
 
 <!---
